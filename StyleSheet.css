@@ -1,0 +1,33 @@
+﻿body {
+    background-image: url(http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSbGqTY9-dK-9SJbas69FWjIJtVjnExQfqIFHU-a8mdhgE9Fk5oArS9bhj_0Q1F2Mk_D9lqWu0C41dRhWEgfoY);
+}
+.all {
+    background: linear-gradient(180deg,#D2DAFF,#EEF1FF,#AAC4FF);
+    margin:100px 50px 100px 50px;
+    padding:30px 50px 50px 50px;
+}
+h1, h3, footer {
+    text-align: center;
+}
+h1 {
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
+video{
+    width:800px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+footer{
+    font-size:14px;
+    color:white;
+}
+a:link{
+    color:aqua; 
+}
+a:visited{
+    color:cadetblue;
+}
+a:hover{
+    color:coral;
+}
