@@ -1,5 +1,5 @@
-﻿body {
-    background-image: url(http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSbGqTY9-dK-9SJbas69FWjIJtVjnExQfqIFHU-a8mdhgE9Fk5oArS9bhj_0Q1F2Mk_D9lqWu0C41dRhWEgfoY);
+body {
+    background-image: url(https://img.freepik.com/premium-vector/starry-galaxy-space-background_636389-311.jpg?w=2000);
 }
 .all {
     background: linear-gradient(180deg,#D2DAFF,#EEF1FF,#AAC4FF);
@@ -23,11 +23,15 @@ footer{
     color:white;
 }
 a:link{
-    color:aqua; 
+    color:navy;
 }
-a:visited{
-    color:cadetblue;
+a:visited {
+    color: blueviolet;
 }
 a:hover{
     color:coral;
+}
+
+a:active{
+    color:black;
 }
